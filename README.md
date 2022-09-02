@@ -17,7 +17,7 @@ I also love bash scripting.
 - Coffee (mainly V60)
 - Jogging (although I'm very lazy for this right know)
 - Crafty indie-games (Factorio, Faster Than Light, Minecraft, etc)
-- Obsucre horror films and videos on YT
+- Obscure horror films and videos on YT
 
 #### Contact info:
 
