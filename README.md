@@ -7,7 +7,7 @@ I am Artemii Kulikov.
 
 #### What do I do?
 
-Learning C and C++.
+Learning Python (and little C++)
 Sometimes having fun with Python for simple Telegram apps or simple scripts and games.
 
 I also love bash scripting.
