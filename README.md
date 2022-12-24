@@ -3,7 +3,7 @@
 #### Who am I?
 
 I am Artemii Kulikov.
- Currently living in Moscow, currently 21 years old 😁
+ Currently living in Moscow, currently 22 years old 😁
 
 #### What do I do?
 
