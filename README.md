@@ -15,7 +15,7 @@ I also love bash scripting.
 #### Hobby:
 
 - Coffee (mainly V60)
-- Jogging (although I'm very lazy for this right know)
+- Jogging (although I'm very lazy for this right now)
 - Crafty indie-games (Factorio, Faster Than Light, Minecraft, etc)
 - Obscure horror films and videos on YT
 
