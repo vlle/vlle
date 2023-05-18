@@ -2,27 +2,24 @@
 
 #### Who am I?
 
-I am Artemii Kulikov.
- Currently living in Moscow, currently 22 years old 😁
+I am Artemii Kulikov, a 22-year-old currently living in Moscow.
 
 #### What do I do?
 
-Learning Python (and little C++)
-Sometimes having fun with Python for simple Telegram apps or simple scripts and games.
+I primarily focus on learning Python (with a little bit of knowledge in C++) and enjoy developing simple Telegram apps, scripts, and games. I am available for open-source projects and am actively looking for internship opportunities to further develop my skills and gain experience.
 
-I also love bash scripting.
+I also have a great interest in bash scripting.
 
-#### Hobby:
+#### Hobbies:
 
-- Coffee (mainly V60)
-- Jogging (although I'm very lazy for this right now)
-- Crafty indie-games (Factorio, Faster Than Light, Minecraft, etc)
-- Obscure horror films and videos on YT
+- Coffee (especially V60)
+- Jogging (although I've been lazy with this one lately)
+- Indie-games (Factorio, Faster Than Light, Minecraft, etc.)
+- Obscure horror films and videos on YouTube.
 
 #### Contact info:
-
 - E-mail: workerco@student.21-school.ru
-- TG: @mtrrb
+- Telegram: @mtrrb
 
 <!--
 **vlle/vlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
