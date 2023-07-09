@@ -6,7 +6,7 @@ I am Artemii Kulikov, a 22-year-old currently living in Moscow.
 
 #### What do I do?
 
-I primarily focus on learning Python (with a little bit of knowledge in C++) and enjoy developing simple Telegram apps, scripts, and games. I am available for open-source projects and am actively looking for internship opportunities to further develop my skills and gain experience.
+I primarily focus on learning Golang (with a little bit of knowledge in C++) and enjoy developing simple Telegram apps, scripts, and games. I am available for open-source projects and am actively looking for internship opportunities to further develop my skills and gain experience.
 
 I also have a great interest in bash scripting.
 
