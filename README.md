@@ -2,7 +2,7 @@
 
 #### Who am I?
 
-I am Artemii Kulikov, a 22-year-old currently living in Moscow.
+I am Artemii Kulikov, a 23-year-old currently living in Moscow.
 
 #### What do I do?
 
