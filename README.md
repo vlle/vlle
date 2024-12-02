@@ -1,25 +1,33 @@
-### Hello world! 👋
+### hello world! 👋
 
-#### Who am I?
+who am i?
 
-I am Artemii Kulikov, a 23-year-old currently living in Moscow.
+i’m artemii kulikov, a 24-year-old living in moscow.
 
-#### What do I do?
+### what do i do?
 
-I primarily focus on learning Golang (with a little bit of knowledge in C++) and enjoy developing simple Telegram apps, scripts, and games. I am available for open-source projects and am actively looking for internship opportunities to further develop my skills and gain experience.
+i work at wildberries, where i focus on backend development. i’m still open to contributing to open-source projects because i enjoy collaborating and learning from others.
 
-I also have a great interest in bash scripting.
+### hobbies:
 
-#### Hobbies:
+	•	coffee (v60 is still my favorite)
+	•	hitting the gym (weights over jogging these days)
+	•	indie games (factorio, faster than light, minecraft, and more)
+	•	obscure horror films and diving into strange, niche youtube videos
 
-- Coffee (especially V60)
-- Jogging (although I've been lazy with this one lately)
-- Indie-games (Factorio, Faster Than Light, Minecraft, etc.)
-- Obscure horror films and videos on YouTube.
+### fun fact:
 
-#### Contact info:
-- E-mail: workerco@student.21-school.ru
-- Telegram: @mtrrb
+i’m into creating telegram apps and experimenting with scripting tools, always curious about improving workflows or trying something new in tech. i also enjoy tinkering with things like neovim setups and lightweight, efficient solutions for development.
+
+### contact info:
+
+	•	email: workerco@student.21-school.ru
+	•	telegram: @mtrrb
+
+### note:
+
+all opinions i share online are my own and do not reflect those of my employer.
+
 
 <!--
 **vlle/vlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
