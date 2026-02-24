@@ -1,18 +1,9 @@
-### hello world! 👋
+### hello 
 
-who am i?
 
-i’m artemii kulikov, a 25-year-old living in moscow.
 
-### what do i do?
-
-i work at wildberries as golang swe. i’m still open to contributing to open-source projects because i enjoy collaborating and learning from others.
-
-### contact info:
-
-	•	email: workerco@student.21-school.ru
-
-### note:
+i’m artemii kulikov.
+i work at wildberries as golang swe. i’m open to contributing to open-source projects, and i love coffee
 
 all opinions i share online are my own and do not reflect those of my employer.
 
